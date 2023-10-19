@@ -2,8 +2,8 @@
   "name": "19Oct",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/19Oct.git",
+    "ssh": "git@github.com:grgshiji/19Oct.git",
     "branch": "block_19Oct"
   },
   "dependencies": {
