@@ -1,0 +1,36 @@
+{
+  "name": "19Oct",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_19Oct"
+  },
+  "dependencies": {
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "2yDXN-x3mdxjDFm1jSgFM",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
